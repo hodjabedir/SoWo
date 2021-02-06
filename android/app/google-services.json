@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220661602563",
+    "project_id": "sowo-dabd3",
+    "storage_bucket": "sowo-dabd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220661602563:android:34e61d736698b50a9b3136",
+        "android_client_info": {
+          "package_name": "com.deneme.sowo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220661602563-cfhj1inoq4dvb8e63h4eia5i2qellgir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXck9G1UZeUeN1Vt1jRC9vl1KPiUh3q4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220661602563-cfhj1inoq4dvb8e63h4eia5i2qellgir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
